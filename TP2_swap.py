@@ -8,6 +8,10 @@ print("Permutation: a ==> b, b ==> c, c ==> a")
          * Completez le programme a partir d'ici.
          *******************************************
 """
+temp = c
+c = b
+b = a
+a = temp
 
 
 """     *******************************************
